@@ -152,7 +152,7 @@ Demo_library/
 
 ## 開發說明
 
-### 代碼風格
+### 程式碼風格
 - 後端遵循 Spring Boot 最佳實踐
 - 前端使用 Vue 3 Composition API
 - 統一的錯誤處理機制
