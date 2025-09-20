@@ -57,7 +57,7 @@
 1. 安裝並啟動 MariaDB
 2. 創建數據庫：
 ```sql
-CREATE DATABASE library;
+CREATE DATABASE Demo_library;
 ```
 
 ### 後端啟動
